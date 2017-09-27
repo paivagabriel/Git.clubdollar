@@ -43,7 +43,7 @@ public class MainActivity extends BaseActivity implements NavigationView.OnNavig
     private CardView cvProdutos;
     private CardView cvCuriosidades;
 
-
+//TESTE TESTE
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
