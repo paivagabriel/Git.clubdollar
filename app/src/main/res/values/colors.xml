@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#D9000000</color>
+    <color name="colorAccent">#e2a401</color>
+    <color name="btn_color">#e2a401</color>
+
+    <color name="nav_background_color">#bf000000</color>
+
+    <color name="cinza">#6d6d6d</color>
+    <color name="cinza_transparente">#b36d6d6d</color>
+    <color name="facebook_blue">#3b5998</color>
+    <color name="google_plus_red">#d34836</color>
+    <color name="twitter_blue">#4099FF</color>
+    <color name="branco_transparente">#00F5F5F5</color>
+
+
+    <color name="activity_back_colors">#212121</color>
+
+</resources>

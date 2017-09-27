@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Publicar"
+        android:id="@+id/titulo_menu">
+        <menu>
+        <item
+            android:id="@+id/novo_produto"
+            android:icon="@drawable/produtos"
+            android:title=" Um novo produto" />
+
+            <item
+                android:id="@+id/novo_servico"
+                android:icon="@drawable/service"
+                android:title=" Um novo Serviço" />
+        <item
+            android:id="@+id/nova_sugestao"
+            android:icon="@drawable/hair"
+            android:title="Sugestoes de Cortes"
+            />
+
+            <item
+                android:id="@+id/curiosidades"
+                android:icon="@drawable/curiosity"
+                android:title="Curiosidades"
+                />
+
+        </menu>
+    </item>
+
+
+
+
+
+</menu>

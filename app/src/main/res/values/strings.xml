@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Club Dollar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="teste">Teste</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_adm">AdmActivity</string>
+
+
+    <string-array name="sugestoes_activity">
+        <item>Sugestões de Cortes</item>
+        <item>Sugestões de Serviços</item>
+        <item>Curiosidades</item>
+    </string-array>
+</resources>

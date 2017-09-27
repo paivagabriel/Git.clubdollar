@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "589680287944",
+    "firebase_url": "https://clubdollar2-adbd2.firebaseio.com",
+    "project_id": "clubdollar2-adbd2",
+    "storage_bucket": "clubdollar2-adbd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589680287944:android:5af481e816707314",
+        "android_client_info": {
+          "package_name": "com.paivadeveloper.clubdollar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589680287944-8bk7bicjqffnao4979qluvvq2etvm7bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWsgNsfbDGZeZ50F5xtOR8gt8kq0FapH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
