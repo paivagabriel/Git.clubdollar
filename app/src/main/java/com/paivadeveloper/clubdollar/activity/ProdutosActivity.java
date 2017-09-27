@@ -53,7 +53,9 @@ public class ProdutosActivity extends AppCompatActivity {
         FirebaseApp.initializeApp(getApplicationContext());
 
         storagePath = "Club_Dollar/";
-        dataBasePath = "Salao/promocoes/nome_promocao/fotos_storage_id";
+
+        //alteração no caminho da arvore
+        dataBasePath = "Salao/produtos/nome_produto/fotos_storage_id";
 
         storageReference = FirebaseStorage.getInstance().getReference(storagePath);
         databaseReference = ConfiguracaoFirebase.getFirebase().child(dataBasePath);
